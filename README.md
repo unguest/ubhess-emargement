@@ -2,6 +2,10 @@
 
 Ou comment émarger en une ligne de commande, no crontab, no service.
 
+
+
+<img src="https://i.imgflip.com/9fxodg.jpg" title="Je ne suis pas responsable de vos conneries.">.
+
 ## How-To
 
 Fichier .env :
