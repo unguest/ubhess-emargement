@@ -1,4 +1,4 @@
-# UBHEss Émargement
+# UBHess Émargement
 
 Ou comment émarger en une ligne de commande, no crontab, no service.
 
