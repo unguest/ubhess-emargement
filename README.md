@@ -2,9 +2,8 @@
 
 Ou comment émarger en une ligne de commande, no crontab, no service.
 
+<img src="https://i.imgflip.com/9fxodg.jpg" title="Je ne suis pas responsable de vos conneries.">. ![image](https://github.com/user-attachments/assets/90d5590d-8bd8-450e-bcb2-fea1bdbcd294)
 
-
-<img src="https://i.imgflip.com/9fxodg.jpg" title="Je ne suis pas responsable de vos conneries.">.
 
 ## How-To
 
